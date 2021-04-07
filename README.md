@@ -12,16 +12,16 @@ Stap 0: BOILERPLATE & SETUP & GIT
      git clone https://github.com/Stroomer/webdev-pong2021.git
 
    - GIT-repo aanmaken op jouw github:
-     https://github.com/JOUW_EIGEN_GITHUB_NAAM_HIER/webdev-pong2021.git
+     https://github.com/Romano2003/webdev-pong2021.git
 
    - GIT lokaal klaarmaken voor de eerste commit:  
              
         git init
         git add .
-        git commit -m "stap0-boilerplate-setup-git"
-        git remote add origin https_jouw_github_hier.git
-        git branch -M stap0
-        git push -u origin stap0
+        git commit -m "Initial Commit"
+        git remote add origin https://github.com/Romano2003/webdev-pong-2021.git
+        git branch -M Master
+        git push -u origin Master
 
    - Teams:  Jouw GIT-repo toevoegen in exceldocument bij Javascript/bestanden/pong
 
